@@ -55,7 +55,9 @@ int main() {
 			cout<<Rac[i][j]<<" | ";
 		}
 		cout<<endl;
-	}	  
+	}	
+	
+	cout<<"\n BOBOT W : \n\n";  
 	
 }
 
