@@ -87,6 +87,7 @@ int main() {
 		
 		}
 	}
-		cout<<"\n Nilai A1 : "<<ha[0];
+		cout<<"\n Nilai A1 : "<<ha[0]
+		<<"\n Nilai A2 : "<<ha[1];
 }
 
