@@ -48,7 +48,14 @@ int main() {
 	 (ac[2][4]/mc[5])
 	 }
 	};
-	  
+	for(int i=0;i<3;i++)
+	{
+		for(int j=0;j<5;j++)
+		{
+			cout<<Rac[i][j]<<" | ";
+		}
+		cout<<endl;
+	}	  
 	
 }
 
