@@ -78,5 +78,15 @@ int main() {
 	}
 	
 	cout<< "\n HASIL AKHIR : \n";
+	double ha[3];
+	for(int i=0;i<3;i++)
+	{
+	for(int j=0;j<5;j++)
+	{
+		ha[i]+=RWac[i][j];
+		
+		}
+	}
+		cout<<"\n Nilai A1 : "<<ha[0];
 }
 
