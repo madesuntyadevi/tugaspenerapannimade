@@ -57,7 +57,13 @@ int main() {
 		cout<<endl;
 	}	
 	
-	cout<<"\n BOBOT W : \n\n";  
+	cout<<"\n BOBOT W : \n\n";
+	double w[5]={5,3,4,4,2};
+	for(int i=0;i<5;i++)
+	{
+		cout<<w[i]<<" | ";
+	}
+	cout<<endl;  
 	
 }
 
