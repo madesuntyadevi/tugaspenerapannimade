@@ -19,5 +19,7 @@ int main() {
 			cout<<endl;
 	}
 	
+	cout<<"\n MATRIKS R : \n\n";
+	
 }
 
