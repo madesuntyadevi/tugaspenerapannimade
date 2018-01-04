@@ -76,5 +76,7 @@ int main() {
 		}
 		cout<<endl;
 	}
+	
+	cout<< "\n HASIL AKHIR : \n";
 }
 
