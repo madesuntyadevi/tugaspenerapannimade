@@ -65,5 +65,6 @@ int main() {
 	}
 	cout<<endl;  
 	
+	cout<<"\n MATRIK R * W : \n\n";
 }
 
